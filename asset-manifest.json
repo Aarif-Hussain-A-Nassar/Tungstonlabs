@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Tungstonlabs/static/css/main.54251e94.css",
+    "main.js": "/Tungstonlabs/static/js/main.c56e64b5.js",
+    "static/js/453.6e82e269.chunk.js": "/Tungstonlabs/static/js/453.6e82e269.chunk.js",
+    "static/media/Poppins-Regular.ttf": "/Tungstonlabs/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "index.html": "/Tungstonlabs/index.html",
+    "main.54251e94.css.map": "/Tungstonlabs/static/css/main.54251e94.css.map",
+    "main.c56e64b5.js.map": "/Tungstonlabs/static/js/main.c56e64b5.js.map",
+    "453.6e82e269.chunk.js.map": "/Tungstonlabs/static/js/453.6e82e269.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54251e94.css",
+    "static/js/main.c56e64b5.js"
+  ]
+}
