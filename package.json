@@ -1,6 +1,5 @@
 {
-  "homepage": "/Tungstonlabs",
-  "build": "react-scripts build && mkdir build/Tungstonlabs && mv build/static build/Tungstonlabs/images",
+  "homepage": "https://Aarif-Hussain-A-Nassar.github.io/Tungstonlabs",
   "name": "tungstonlabs",
   "version": "0.1.0",
   "private": true,
