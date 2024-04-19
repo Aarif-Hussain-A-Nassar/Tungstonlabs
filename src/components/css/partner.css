@@ -1,0 +1,65 @@
+.partner{
+    background-color: white;
+    
+   
+}
+
+.bluepartner{
+ background-color: #0E0A2D;
+ margin-top: 80px;
+ margin-left: 50px;
+ margin-right: 50px;
+display: flex;
+height:300px;
+margin-bottom: 50px;
+}
+
+
+.leftpartner{
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.rightpartner{
+    flex: 1;
+    display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.leftpartner h1{
+    text-align: center;
+    color: white;
+    font-family: poppins;
+    font-size: 39px;
+    font-weight: 600;
+    padding-left: 150px;
+    line-height: 40px;
+    padding-right: 150px;
+}
+.rightpartner button{
+    font-family: poppins;
+    font-size: 25px;
+    font-weight: 900;
+    background-color: #00FF9D;
+    border-radius: 50px 50px 50px 50px;
+    margin-top: 30px;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-bottom: 5px;
+    padding-right: 10px;
+    cursor: pointer;
+    transition: transform 0.2s;
+    margin: 200px;
+    width: 300px;
+    height: 75px;
+    border-style: none;
+    
+}
+
+.rightpartner button:hover{
+    transform: scale(1.1);
+    background-color: white;
+}

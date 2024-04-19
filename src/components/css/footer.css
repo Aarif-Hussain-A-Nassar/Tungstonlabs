@@ -1,0 +1,142 @@
+.firstfooter {
+    display: flex;
+    justify-content: space-between; /* Distribute the items evenly along the main axis */
+}
+
+.first1, .first2, .first3 {
+    flex: 1; /* Allow each div to take an equal amount of space */
+    max-width: 30%; /* Adjust the maximum width as needed */
+    margin: 10px; /* Add margin for spacing */
+}
+
+
+.footer{
+    background-color: #0E0A2D;  
+}
+
+.lines {
+    
+    background-color: #00FF9D;
+    margin-left: 4%;
+    margin-right: 4%;
+    height: 0.5px;
+    border-style: none;
+    margin-top: 1%;
+
+    
+}
+
+.first1 img{
+    padding-top: 5%;
+    padding-left: 5%;
+}
+
+.first2 h1{
+    font-family: poppins;
+    font-weight: bold;
+    font-size:75px;
+    padding-top: 10%;
+    padding-left: 5%;
+
+    
+   
+    
+}
+
+
+
+.first3 h1{
+    font-family: poppins;
+    font-weight: bold;
+    font-size:150%;
+    padding-top: 5%;
+    color: #00FF9D;
+    padding-top: 15%;
+   
+}
+
+
+
+
+
+.secondfooter {
+    display: flex;
+    justify-content: space-between; /* Distribute the items evenly along the main axis */
+}
+
+.second1, .second2, .second3 {
+    flex: 1; /* Allow each div to take an equal amount of space */
+    max-width: 30%; /* Adjust the maximum width as needed */
+    margin: 10px; /* Add margin for spacing */
+}
+
+
+.second1 h5{
+    color: #7A7A7A;
+    margin-left: 10%;
+    margin-top: 6%;
+    font-family: poppins;
+    
+   }
+
+
+    .second1 h2{
+        color: white;
+        margin-left: 10%;
+        margin-top: 6%;
+        font-family: poppins;
+        font-size: 15px;
+    }
+
+
+    .second2 h5{
+        color: #7A7A7A;
+        margin-left: 10%;
+        margin-top: 6%;
+        font-family: poppins;
+       }
+    
+    
+        .second2 h2{
+            color: white;
+            margin-left: 10%;
+            margin-top: 6%;
+            font-family: poppins;
+            font-size: 15px;
+        }
+
+        .second3 h5{
+            color: #7A7A7A;
+            margin-top: 6%;
+            font-family: poppins;
+            
+           }
+
+           .email{
+            width: 70%;
+            font-family: poppins;
+            margin-top: 5%;
+            padding: 1%;
+            font-size: 13px;
+           }
+
+
+           .emailsubmit{
+            background-color: #00FF9D;
+            width:73%;
+            border-radius: 13px;
+            padding-top:9px ;
+            font-family: poppins;
+            font-size: 10px;
+            font-weight:600;
+            letter-spacing: 2px;
+            padding-bottom:9px;
+            margin-top: 10px;
+            border-style: none;
+            
+           }
+
+           .emailsubmit:hover{
+            color: white;
+            cursor: pointer;
+           }

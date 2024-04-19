@@ -1,0 +1,49 @@
+/* CSS for the banner container */
+.banner {
+    position: relative;
+    background-color: #0E0A2D;
+    height: 100vh;
+    width: 100%;
+    z-index: 1;
+    background: #0E0A2D;
+    display: flex;
+    justify-content: center; /* Center horizontally within the viewport */
+    align-items: center; /* Center vertically within the viewport */
+  }
+  
+  /* CSS for the left banner */
+  .left-banner {
+    text-align: center; /* Center the text horizontally */
+    width: 50%;
+  }
+  
+  /* CSS for the right banner */
+  .right-banner {
+    display: flex;
+    align-items: center; /* Center vertically within the right div */
+   
+  }
+
+  
+
+
+
+  .imagelogo{
+    transition: transform 0.2s; 
+    padding-top: 30px;
+  }
+  
+  .imagelogo:hover{
+    transform: scale(1.1);
+  }
+  /* CSS for the headline text inside both left and right banners */
+  .headline {
+    font-family: Poppins;
+    font-size: 80px;
+    font-weight: 600;
+    color: white;
+    padding-right: 150px;
+    line-height: 90px;
+    margin: 0;
+  }
+  

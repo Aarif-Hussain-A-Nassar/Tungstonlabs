@@ -1,0 +1,49 @@
+.aboutus{
+    color: #00FF9D;
+    font-size: 70px;
+    font-family: poppins;
+}
+
+.about{
+    padding-left: 70px;
+    padding-top: 100px;
+    padding-right: 70px;
+    background-color: #0E0A2D;
+}
+
+.para{
+    color: white;
+    font-size: 20px;
+    line-height: 40px;
+    font-family: poppins;
+    text-align: justify;
+}
+.vision{
+    color: #00FF9D;
+    font-size: 20px;
+    font-family: poppins;
+    padding-top: 20px;
+}
+.gain{
+    font-family: Poppins;
+    font-size: 25px;
+    font-weight: 500;
+    fill: #0E0A2D;
+    color: #0E0A2D;
+    background-color: #00FF9D;
+    border-radius: 50px 50px 50px 50px;
+    margin-top: 30px;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-bottom: 5px;
+    padding-right: 10px;
+    cursor: pointer;
+    transition: transform 0.2s;
+    border-style: none;
+    
+}
+
+.gain:hover{
+    transform: scale(1.1);
+    background-color: white;
+}

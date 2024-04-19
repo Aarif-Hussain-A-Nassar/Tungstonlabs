@@ -1,0 +1,152 @@
+.con{
+    color: #7A7A7A4D;
+    font-family: poppins;
+    font-size: 88px;
+    font-weight: 600;
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-bottom: 10px;
+}
+
+.contactmain{
+    display: flex;
+}
+
+.form{
+    flex: 1;
+}
+
+.contactdiscription {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #0E0A2D;
+    text-align: justify;
+    margin-right: 50px;
+   margin-bottom: 35px;
+    /* Add padding for better spacing */
+  }
+  
+  .contactdiscription p {
+    color: white;
+    font-family: poppins; /* Use proper font-family syntax */
+    font-size: 20px;
+    font-weight: 100;
+   padding-left: 6px;
+   padding-right: 6px;
+    max-width: 80%; /* Adjust the maximum width as needed */
+    padding-top: 20%;
+  }
+  
+  .contactdiscription h1{
+    padding-top: 50px;
+    padding-left: 500px;
+    font-family: poppins;
+  }
+
+
+.forms {
+    border: 3px solid #0E0A2D;
+    border-radius: 0;
+    width: 100%; /* Set the width to 100% to expand to the full container width */
+    max-width: 100%; /* Adjust the maximum width to your desired size */
+    padding-left: 10px; /* Add padding for spacing */
+    margin-left: 4%; 
+    margin-right: 8%;/* Center horizontally using margin */
+    font-size: 16px;
+    font-family: poppins;
+    padding: 6px 2%;
+    margin-bottom: 1.5%
+    
+}
+
+.messageforms{
+    border: 3px solid #0E0A2D;
+    border-radius: 0;
+    width: 97.5%; /* Set the width to 100% to expand to the full container width */
+    max-width: 100%; /* Adjust the maximum width to your desired size */
+    padding-left: 10px; /* Add padding for spacing */
+    margin-left: 4%; 
+    
+    margin-top: 2%;
+    font-size: 16px;
+    font-family: poppins;
+    margin-bottom: 1.5%;
+   
+    
+}
+
+.messageforms:hover{
+    cursor: pointer;
+}
+.heads{
+    font-family: poppins;
+    font-weight: 600;
+    font-size: 15px;
+    padding-left: 4%;
+    padding-bottom: 5px;
+    margin-top: 2%;
+
+}
+.form{
+    padding-bottom: 19px;
+    padding-left: 1px;
+    margin-right: 5%;
+
+}
+
+.contactmain{
+    padding-top: 40px;
+}
+
+.head{
+    font-family: poppins;
+    font-weight: 600;
+    font-size: 15px;
+    padding-left: 4%;
+    padding-bottom: 5px;
+}
+.head{
+    cursor: pointer;
+}
+.formsdrop{
+    border: 3px solid #0E0A2D;
+    border-radius: 0;
+    width: 99.8%; /* Set the width to 100% to expand to the full container width */
+    max-width: 100%; /* Adjust the maximum width to your desired size */
+    padding-left: 10px; /* Add padding for spacing */
+    display: block; /* Display the input as a block element */
+    margin-left: 4%; /* Center horizontally using margin */
+    font-size: 16px;
+    font-family: poppins;
+    padding: 6px
+}
+
+.formsdrop{
+    cursor: pointer;
+}
+
+
+.formsdrops:hover{
+    cursor: pointer;
+}
+
+.submit{
+    background:#00FF9D;
+    font-family: poppins;
+    font-size: 15px;
+  border-style: none;
+    font-weight: bold;
+    border-radius: 20px;
+    margin-left: 4%;
+    width: 100%;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    letter-spacing: 4px;
+}
+
+.submit:hover{
+    color: white;
+    cursor: pointer;
+}

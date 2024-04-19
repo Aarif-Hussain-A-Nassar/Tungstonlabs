@@ -1,0 +1,79 @@
+.Header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center; /* Center vertically */
+  background-color:  #0E0A2D;
+  margin: 0;
+  position: fixed;
+  width: 100%;
+  z-index: 2;
+  padding-top: 10px;
+  background-color: #0E0A2D;
+}
+
+.leftheader {
+  width: 50%; /* Let it adjust to content */
+}
+
+.rightheader ul {
+  list-style-type: none;
+  margin: 0;
+  padding-right: 50px;
+  display: flex; /* Make the navigation links flex items */
+  transition: color 0.3s ease;
+}
+
+.rightheader li {
+  margin: 0;
+  
+}
+
+.rightheader li a {
+  display: block;
+  color: #ffff;
+  text-align: center;
+  padding-right: 20px;
+  padding-left: 30px;
+  padding-bottom: 10px;
+  text-decoration: none;
+  transition: color 0.5s ease;
+}
+
+.rightheader li a:hover {
+  color:#00FF9D;
+  transition: color 0.3s ease;
+
+}
+
+.Logo img {
+  width: 50px; /* Adjust the width to decrease the image size */
+  height: auto; /* To maintain the image's aspect ratio */
+}
+.Logo{
+  font-style:normal;
+  color: #ffff;
+  font-size:20px;
+ /* width:fit-content; */
+  text-decoration: none;
+  position: relative;
+  padding-left: 75px;
+  transition: color 0.3s ease;
+  font-family: 'Poppins';
+   
+}
+
+.Logo:hover {
+  color:#00FF9D;
+  transition: color 0.3s ease;
+ }
+
+body{
+  margin: 0;
+  padding: 0;
+}
+
+.logoleft{
+  width: 60px; /* Set the desired width for the image */
+  height: auto;
+}
+
