@@ -1,5 +1,6 @@
 {
   "homepage": "/Tungstonlabs",
+  "build": "react-scripts build && mkdir build/Tungstonlabs && mv build/static build/Tungstonlabs/images",
   "name": "tungstonlabs",
   "version": "0.1.0",
   "private": true,
