@@ -6,7 +6,7 @@ const Display=() =>{
     <div className="Header">
         <div className="leftheader">
         <a href="http://localhost:3000/Tungston-Labs" className='Logo'>
-        <img  className="logoleft"src="/tungstonlabs/public/Tungstonlabs/new-web-logo-2048x652.png" alt="" style={{ height: 64, width: 200 }} />
+        <img  className="logoleft"src="/Tungstonlabs/new-web-logo-2048x652.png" alt="" style={{ height: 64, width: 200 }} />
        
 
         </a>
