@@ -15,7 +15,7 @@ const Banner = ()=>{
                 
             </div>
             <div className='right-banner'>
-                <img  className='imagelogo' src='/images/web-banner-fina-1024x1024.png' alt='' style={{height:550,width:530}}></img>
+                <img  className='imagelogo' src='./images/web-banner-fina-1024x1024.png' alt='' style={{height:550,width:530}}></img>
                 
             </div>
             
