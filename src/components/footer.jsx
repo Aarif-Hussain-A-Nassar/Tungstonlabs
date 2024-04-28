@@ -1,6 +1,6 @@
 import React from "react";
 import './css/footer.css';
-import facebook from "./images/facebook.png"
+
 
 const Footer=()=>{
 
@@ -60,7 +60,7 @@ const Footer=()=>{
 
                     <h5>FOLLOW</h5>
 
-                    <img src={facebook}alt=""style={{ height: 20, width: 20 }} ></img>
+                    <img src="/images/facebook.png"alt=""style={{ height: 20, width: 20 }} ></img>
                     <img src="/images/linkedin.png" alt="" style={{ height: 20, width: 20 }} ></img>
                     <img src="/images/youtube.png" alt="" style={{ height: 20, width: 20 }} ></img>
                     <img src="/images/instagram.png" alt="" style={{ height: 20, width: 20 }} ></img>

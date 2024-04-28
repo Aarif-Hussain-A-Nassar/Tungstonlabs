@@ -3,8 +3,11 @@ import './css/about.css'
 
 const About=() =>{
     return(
-        <div className="about">
-            <h1 className="aboutus">About Us</h1>
+        <section id="about">
+
+      
+        <div className="about" >
+            <h1 className="aboutus" >About Us</h1>
             <p className=" para">
                 At TLS, we’re a team of skilled professionals dedicated to empowering our clients’ marketing objectives.
                  With idea generators, brand strategists, digital specialists, rollout managers, and creative designers, 
@@ -21,7 +24,7 @@ const About=() =>{
         </div>
 
 
-
+        </section>
     )
 }
  
