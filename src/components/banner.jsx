@@ -4,7 +4,7 @@ import './css/banner.css';
 
 const Banner = ()=>{
     return(
-        <div className='banner'>
+        <div className='banner' id="home">
             <div className='left-banner'>
             <h1 className='headline'>
                 <span style={{ color: '#00FF9D' }}>Ideas</span> 
