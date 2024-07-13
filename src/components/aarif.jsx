@@ -6,7 +6,7 @@ const Display=() =>{
     return( 
     <div className="Header">
         <div className="leftheader">
-        <a href="http://localhost:3000/Tungston-Labs" className='Logo'>
+        <a href="#home" className='Logo'>
         <img  className="logoleft"src={`${process.env.PUBLIC_URL}/images/new-web-logo-2048x652.png`} alt="" style={{ height: 64, width: 200 }} />
        
 
